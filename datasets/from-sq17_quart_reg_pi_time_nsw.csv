@@ -1,0 +1,865 @@
+Quarter end date,ASGS code,ASGS Name,Number of debtors with an insolvency that is non-business related or not stated,Number of debtors with an insolvency that is business related,Total number of debtors
+30-Sep-17,1,New South Wales,1863,312,2175
+30-Sep-17,1GSYD,Greater Sydney,1124,186,1310
+30-Sep-17,1RNSW,Rest of NSW,738,126,864
+30-Sep-17,10102,Queanbeyan,,,19
+30-Sep-17,10103,Snowy Mountains,,,6
+30-Sep-17,10104,South Coast,19,3,22
+30-Sep-17,10105,Goulburn - Mulwaree,,,13
+30-Sep-17,10106,Young - Yass,10,3,13
+30-Sep-17,10201,Gosford,45,14,59
+30-Sep-17,10202,Wyong,79,8,87
+30-Sep-17,10301,Bathurst,,,23
+30-Sep-17,10302,Lachlan Valley,,,15
+30-Sep-17,10303,Lithgow - Mudgee,19,4,23
+30-Sep-17,10304,Orange,20,6,26
+30-Sep-17,10401,Clarence Valley,,,14
+30-Sep-17,10402,Coffs Harbour,22,8,30
+30-Sep-17,10501,Bourke - Cobar - Coonamble,,,
+30-Sep-17,10502,Broken Hill and Far West,,,9
+30-Sep-17,10503,Dubbo,15,3,18
+30-Sep-17,10601,Lower Hunter,30,6,36
+30-Sep-17,10602,Maitland,,,26
+30-Sep-17,10603,Port Stephens,20,3,23
+30-Sep-17,10604,Upper Hunter,,,11
+30-Sep-17,10701,Dapto - Port Kembla,,,19
+30-Sep-17,10702,Illawarra Catchment Reserve,0,0,0
+30-Sep-17,10703,Kiama - Shellharbour,27,3,30
+30-Sep-17,10704,Wollongong,,,19
+30-Sep-17,10801,Great Lakes,,,10
+30-Sep-17,10802,Kempsey - Nambucca,,,13
+30-Sep-17,10803,Lord Howe Island,0,0,0
+30-Sep-17,10804,Port Macquarie,29,10,39
+30-Sep-17,10805,Taree - Gloucester,16,3,19
+30-Sep-17,10901,Albury,20,5,25
+30-Sep-17,10902,Lower Murray,,,
+30-Sep-17,10903,Upper Murray exc. Albury,9,0,9
+30-Sep-17,11001,Armidale,,,6
+30-Sep-17,11002,Inverell - Tenterfield,,,13
+30-Sep-17,11003,Moree - Narrabri,,,5
+30-Sep-17,11004,Tamworth - Gunnedah,21,3,24
+30-Sep-17,11101,Lake Macquarie - East,22,3,25
+30-Sep-17,11102,Lake Macquarie - West,18,7,25
+30-Sep-17,11103,Newcastle,50,6,56
+30-Sep-17,11201,Richmond Valley - Coastal,15,3,18
+30-Sep-17,11202,Richmond Valley - Hinterland,15,5,20
+30-Sep-17,11203,Tweed Valley,21,9,30
+30-Sep-17,11301,Griffith - Murrumbidgee (West),,,19
+30-Sep-17,11302,Tumut - Tumbarumba,3,0,3
+30-Sep-17,11303,Wagga Wagga,,,44
+30-Sep-17,11401,Shoalhaven,40,3,43
+30-Sep-17,11402,Southern Highlands,13,3,16
+30-Sep-17,11501,Baulkham Hills,18,8,26
+30-Sep-17,11502,Dural - Wisemans Ferry,,,
+30-Sep-17,11503,Hawkesbury,11,0,11
+30-Sep-17,11504,Rouse Hill - McGraths Hill,,,7
+30-Sep-17,11601,Blacktown,48,5,53
+30-Sep-17,11602,Blacktown - North,20,3,23
+30-Sep-17,11603,Mount Druitt,,,72
+30-Sep-17,11701,Botany,,,21
+30-Sep-17,11702,Marrickville - Sydenham - Petersham,,,12
+30-Sep-17,11703,Sydney Inner City,42,9,51
+30-Sep-17,11801,Eastern Suburbs - North,20,4,24
+30-Sep-17,11802,Eastern Suburbs - South,19,3,22
+30-Sep-17,11901,Bankstown,34,5,39
+30-Sep-17,11902,Canterbury,23,4,27
+30-Sep-17,11903,Hurstville,17,8,25
+30-Sep-17,11904,Kogarah - Rockdale,32,4,36
+30-Sep-17,12001,Canada Bay,19,6,25
+30-Sep-17,12002,Leichhardt,10,4,14
+30-Sep-17,12003,Strathfield - Burwood - Ashfield,28,7,35
+30-Sep-17,12101,Chatswood - Lane Cove,8,3,11
+30-Sep-17,12102,Hornsby,,,10
+30-Sep-17,12103,Ku-ring-gai,,,10
+30-Sep-17,12104,North Sydney - Mosman,16,3,19
+30-Sep-17,12201,Manly,,,4
+30-Sep-17,12202,Pittwater,,,5
+30-Sep-17,12203,Warringah,21,7,28
+30-Sep-17,12301,Camden,21,4,25
+30-Sep-17,12302,Campbelltown (NSW),78,8,86
+30-Sep-17,12303,Wollondilly,,,13
+30-Sep-17,12401,Blue Mountains,11,3,14
+30-Sep-17,12402,Blue Mountains - South,0,0,0
+30-Sep-17,12403,Penrith,45,11,56
+30-Sep-17,12404,Richmond - Windsor,,,10
+30-Sep-17,12405,St Marys,27,0,27
+30-Sep-17,12501,Auburn,,,21
+30-Sep-17,12502,Carlingford,15,0,15
+30-Sep-17,12503,Merrylands - Guildford,46,9,55
+30-Sep-17,12504,Parramatta,33,6,39
+30-Sep-17,12601,Pennant Hills - Epping,,,
+30-Sep-17,12602,Ryde - Hunters Hill,24,4,28
+30-Sep-17,12701,Bringelly - Green Valley,27,6,33
+30-Sep-17,12702,Fairfield,41,5,46
+30-Sep-17,12703,Liverpool,30,4,34
+30-Sep-17,12801,Cronulla - Miranda - Caringbah,,,30
+30-Sep-17,12802,Sutherland - Menai - Heathcote,17,3,20
+30-Sep-17,Unknown,Other (not in ASGS),,,
+31-Dec-17,1,New South Wales,1930,303,2233
+31-Dec-17,1GSYD,Greater Sydney,1123,197,1320
+31-Dec-17,1RNSW,Rest of NSW,807,106,913
+31-Dec-17,10102,Queanbeyan,22,5,27
+31-Dec-17,10103,Snowy Mountains,8,0,8
+31-Dec-17,10104,South Coast,,,18
+31-Dec-17,10105,Goulburn - Mulwaree,23,3,26
+31-Dec-17,10106,Young - Yass,11,0,11
+31-Dec-17,10201,Gosford,55,19,74
+31-Dec-17,10202,Wyong,66,14,80
+31-Dec-17,10301,Bathurst,20,0,20
+31-Dec-17,10302,Lachlan Valley,,,14
+31-Dec-17,10303,Lithgow - Mudgee,,,22
+31-Dec-17,10304,Orange,18,3,21
+31-Dec-17,10401,Clarence Valley,12,0,12
+31-Dec-17,10402,Coffs Harbour,34,5,39
+31-Dec-17,10501,Bourke - Cobar - Coonamble,,,10
+31-Dec-17,10502,Broken Hill and Far West,5,3,8
+31-Dec-17,10503,Dubbo,,,29
+31-Dec-17,10601,Lower Hunter,36,5,41
+31-Dec-17,10602,Maitland,23,5,28
+31-Dec-17,10603,Port Stephens,20,4,24
+31-Dec-17,10604,Upper Hunter,,,10
+31-Dec-17,10701,Dapto - Port Kembla,,,20
+31-Dec-17,10702,Illawarra Catchment Reserve,0,0,0
+31-Dec-17,10703,Kiama - Shellharbour,25,5,30
+31-Dec-17,10704,Wollongong,28,3,31
+31-Dec-17,10801,Great Lakes,11,0,11
+31-Dec-17,10802,Kempsey - Nambucca,7,3,10
+31-Dec-17,10803,Lord Howe Island,0,0,0
+31-Dec-17,10804,Port Macquarie,24,11,35
+31-Dec-17,10805,Taree - Gloucester,18,0,18
+31-Dec-17,10901,Albury,23,4,27
+31-Dec-17,10902,Lower Murray,,,3
+31-Dec-17,10903,Upper Murray exc. Albury,14,4,18
+31-Dec-17,11001,Armidale,3,3,6
+31-Dec-17,11002,Inverell - Tenterfield,8,0,8
+31-Dec-17,11003,Moree - Narrabri,,,4
+31-Dec-17,11004,Tamworth - Gunnedah,33,3,36
+31-Dec-17,11101,Lake Macquarie - East,33,0,33
+31-Dec-17,11102,Lake Macquarie - West,23,4,27
+31-Dec-17,11103,Newcastle,45,6,51
+31-Dec-17,11201,Richmond Valley - Coastal,,,28
+31-Dec-17,11202,Richmond Valley - Hinterland,21,0,21
+31-Dec-17,11203,Tweed Valley,25,5,30
+31-Dec-17,11301,Griffith - Murrumbidgee (West),15,0,15
+31-Dec-17,11302,Tumut - Tumbarumba,,,5
+31-Dec-17,11303,Wagga Wagga,37,3,40
+31-Dec-17,11401,Shoalhaven,,,26
+31-Dec-17,11402,Southern Highlands,8,4,12
+31-Dec-17,11501,Baulkham Hills,21,3,24
+31-Dec-17,11502,Dural - Wisemans Ferry,,,
+31-Dec-17,11503,Hawkesbury,5,0,5
+31-Dec-17,11504,Rouse Hill - McGraths Hill,,,6
+31-Dec-17,11601,Blacktown,,,47
+31-Dec-17,11602,Blacktown - North,29,5,34
+31-Dec-17,11603,Mount Druitt,56,3,59
+31-Dec-17,11701,Botany,,,9
+31-Dec-17,11702,Marrickville - Sydenham - Petersham,,,16
+31-Dec-17,11703,Sydney Inner City,44,5,49
+31-Dec-17,11801,Eastern Suburbs - North,25,9,34
+31-Dec-17,11802,Eastern Suburbs - South,29,7,36
+31-Dec-17,11901,Bankstown,43,4,47
+31-Dec-17,11902,Canterbury,34,4,38
+31-Dec-17,11903,Hurstville,21,5,26
+31-Dec-17,11904,Kogarah - Rockdale,44,7,51
+31-Dec-17,12001,Canada Bay,11,0,11
+31-Dec-17,12002,Leichhardt,10,5,15
+31-Dec-17,12003,Strathfield - Burwood - Ashfield,,,26
+31-Dec-17,12101,Chatswood - Lane Cove,,,18
+31-Dec-17,12102,Hornsby,,,11
+31-Dec-17,12103,Ku-ring-gai,9,5,14
+31-Dec-17,12104,North Sydney - Mosman,13,4,17
+31-Dec-17,12201,Manly,3,0,3
+31-Dec-17,12202,Pittwater,8,6,14
+31-Dec-17,12203,Warringah,22,8,30
+31-Dec-17,12301,Camden,20,4,24
+31-Dec-17,12302,Campbelltown (NSW),80,11,91
+31-Dec-17,12303,Wollondilly,,,
+31-Dec-17,12401,Blue Mountains,,,11
+31-Dec-17,12402,Blue Mountains - South,0,0,0
+31-Dec-17,12403,Penrith,49,6,55
+31-Dec-17,12404,Richmond - Windsor,,,15
+31-Dec-17,12405,St Marys,,,20
+31-Dec-17,12501,Auburn,23,8,31
+31-Dec-17,12502,Carlingford,,,10
+31-Dec-17,12503,Merrylands - Guildford,31,7,38
+31-Dec-17,12504,Parramatta,34,9,43
+31-Dec-17,12601,Pennant Hills - Epping,,,8
+31-Dec-17,12602,Ryde - Hunters Hill,14,4,18
+31-Dec-17,12701,Bringelly - Green Valley,34,3,37
+31-Dec-17,12702,Fairfield,,,41
+31-Dec-17,12703,Liverpool,26,3,29
+31-Dec-17,12801,Cronulla - Miranda - Caringbah,25,5,30
+31-Dec-17,12802,Sutherland - Menai - Heathcote,,,19
+31-Dec-17,Unknown,Other (not in ASGS),0,0,0
+31-Mar-18,1,New South Wales,2073,322,2395
+31-Mar-18,1GSYD,Greater Sydney,1199,191,1390
+31-Mar-18,1RNSW,Rest of NSW,874,131,1005
+31-Mar-18,10102,Queanbeyan,23,6,29
+31-Mar-18,10103,Snowy Mountains,,,5
+31-Mar-18,10104,South Coast,,,24
+31-Mar-18,10105,Goulburn - Mulwaree,,,16
+31-Mar-18,10106,Young - Yass,,,9
+31-Mar-18,10201,Gosford,47,6,53
+31-Mar-18,10202,Wyong,69,8,77
+31-Mar-18,10301,Bathurst,,,17
+31-Mar-18,10302,Lachlan Valley,20,3,23
+31-Mar-18,10303,Lithgow - Mudgee,,,19
+31-Mar-18,10304,Orange,,,19
+31-Mar-18,10401,Clarence Valley,15,5,20
+31-Mar-18,10402,Coffs Harbour,42,3,45
+31-Mar-18,10501,Bourke - Cobar - Coonamble,,,10
+31-Mar-18,10502,Broken Hill and Far West,13,0,13
+31-Mar-18,10503,Dubbo,32,6,38
+31-Mar-18,10601,Lower Hunter,29,3,32
+31-Mar-18,10602,Maitland,,,34
+31-Mar-18,10603,Port Stephens,,,24
+31-Mar-18,10604,Upper Hunter,16,3,19
+31-Mar-18,10701,Dapto - Port Kembla,26,3,29
+31-Mar-18,10702,Illawarra Catchment Reserve,0,0,0
+31-Mar-18,10703,Kiama - Shellharbour,21,4,25
+31-Mar-18,10704,Wollongong,28,3,31
+31-Mar-18,10801,Great Lakes,14,0,14
+31-Mar-18,10802,Kempsey - Nambucca,,,14
+31-Mar-18,10803,Lord Howe Island,0,0,0
+31-Mar-18,10804,Port Macquarie,28,7,35
+31-Mar-18,10805,Taree - Gloucester,,,20
+31-Mar-18,10901,Albury,32,4,36
+31-Mar-18,10902,Lower Murray,,,
+31-Mar-18,10903,Upper Murray exc. Albury,16,5,21
+31-Mar-18,11001,Armidale,,,10
+31-Mar-18,11002,Inverell - Tenterfield,,,11
+31-Mar-18,11003,Moree - Narrabri,8,3,11
+31-Mar-18,11004,Tamworth - Gunnedah,26,6,32
+31-Mar-18,11101,Lake Macquarie - East,25,5,30
+31-Mar-18,11102,Lake Macquarie - West,28,4,32
+31-Mar-18,11103,Newcastle,46,8,54
+31-Mar-18,11201,Richmond Valley - Coastal,17,6,23
+31-Mar-18,11202,Richmond Valley - Hinterland,,,23
+31-Mar-18,11203,Tweed Valley,34,7,41
+31-Mar-18,11301,Griffith - Murrumbidgee (West),,,24
+31-Mar-18,11302,Tumut - Tumbarumba,,,
+31-Mar-18,11303,Wagga Wagga,37,7,44
+31-Mar-18,11401,Shoalhaven,25,5,30
+31-Mar-18,11402,Southern Highlands,,,13
+31-Mar-18,11501,Baulkham Hills,,,17
+31-Mar-18,11502,Dural - Wisemans Ferry,3,0,3
+31-Mar-18,11503,Hawkesbury,4,0,4
+31-Mar-18,11504,Rouse Hill - McGraths Hill,5,0,5
+31-Mar-18,11601,Blacktown,51,4,55
+31-Mar-18,11602,Blacktown - North,35,4,39
+31-Mar-18,11603,Mount Druitt,67,7,74
+31-Mar-18,11701,Botany,13,6,19
+31-Mar-18,11702,Marrickville - Sydenham - Petersham,12,4,16
+31-Mar-18,11703,Sydney Inner City,43,13,56
+31-Mar-18,11801,Eastern Suburbs - North,27,4,31
+31-Mar-18,11802,Eastern Suburbs - South,27,10,37
+31-Mar-18,11901,Bankstown,44,6,50
+31-Mar-18,11902,Canterbury,44,5,49
+31-Mar-18,11903,Hurstville,30,5,35
+31-Mar-18,11904,Kogarah - Rockdale,30,12,42
+31-Mar-18,12001,Canada Bay,,,13
+31-Mar-18,12002,Leichhardt,6,4,10
+31-Mar-18,12003,Strathfield - Burwood - Ashfield,34,5,39
+31-Mar-18,12101,Chatswood - Lane Cove,9,5,14
+31-Mar-18,12102,Hornsby,,,14
+31-Mar-18,12103,Ku-ring-gai,9,4,13
+31-Mar-18,12104,North Sydney - Mosman,20,3,23
+31-Mar-18,12201,Manly,,,9
+31-Mar-18,12202,Pittwater,,,4
+31-Mar-18,12203,Warringah,12,3,15
+31-Mar-18,12301,Camden,22,5,27
+31-Mar-18,12302,Campbelltown (NSW),71,10,81
+31-Mar-18,12303,Wollondilly,10,0,10
+31-Mar-18,12401,Blue Mountains,,,16
+31-Mar-18,12402,Blue Mountains - South,0,0,0
+31-Mar-18,12403,Penrith,55,3,58
+31-Mar-18,12404,Richmond - Windsor,13,0,13
+31-Mar-18,12405,St Marys,30,4,34
+31-Mar-18,12501,Auburn,,,22
+31-Mar-18,12502,Carlingford,,,27
+31-Mar-18,12503,Merrylands - Guildford,39,5,44
+31-Mar-18,12504,Parramatta,25,3,28
+31-Mar-18,12601,Pennant Hills - Epping,,,6
+31-Mar-18,12602,Ryde - Hunters Hill,15,5,20
+31-Mar-18,12701,Bringelly - Green Valley,37,5,42
+31-Mar-18,12702,Fairfield,42,6,48
+31-Mar-18,12703,Liverpool,45,6,51
+31-Mar-18,12801,Cronulla - Miranda - Caringbah,26,3,29
+31-Mar-18,12802,Sutherland - Menai - Heathcote,,,18
+31-Mar-18,Unknown,Other (not in ASGS),0,0,0
+30-Jun-18,1,New South Wales,2034,369,2403
+30-Jun-18,1GSYD,Greater Sydney,1217,228,1445
+30-Jun-18,1RNSW,Rest of NSW,817,141,958
+30-Jun-18,10102,Queanbeyan,25,3,28
+30-Jun-18,10103,Snowy Mountains,,,8
+30-Jun-18,10104,South Coast,20,5,25
+30-Jun-18,10105,Goulburn - Mulwaree,,,16
+30-Jun-18,10106,Young - Yass,,,12
+30-Jun-18,10201,Gosford,40,8,48
+30-Jun-18,10202,Wyong,77,12,89
+30-Jun-18,10301,Bathurst,21,0,21
+30-Jun-18,10302,Lachlan Valley,16,4,20
+30-Jun-18,10303,Lithgow - Mudgee,,,16
+30-Jun-18,10304,Orange,25,4,29
+30-Jun-18,10401,Clarence Valley,,,14
+30-Jun-18,10402,Coffs Harbour,23,7,30
+30-Jun-18,10501,Bourke - Cobar - Coonamble,,,11
+30-Jun-18,10502,Broken Hill and Far West,3,0,3
+30-Jun-18,10503,Dubbo,27,7,34
+30-Jun-18,10601,Lower Hunter,36,4,40
+30-Jun-18,10602,Maitland,28,3,31
+30-Jun-18,10603,Port Stephens,26,10,36
+30-Jun-18,10604,Upper Hunter,8,0,8
+30-Jun-18,10701,Dapto - Port Kembla,23,3,26
+30-Jun-18,10702,Illawarra Catchment Reserve,0,0,0
+30-Jun-18,10703,Kiama - Shellharbour,21,4,25
+30-Jun-18,10704,Wollongong,15,6,21
+30-Jun-18,10801,Great Lakes,,,9
+30-Jun-18,10802,Kempsey - Nambucca,,,18
+30-Jun-18,10803,Lord Howe Island,0,0,0
+30-Jun-18,10804,Port Macquarie,22,6,28
+30-Jun-18,10805,Taree - Gloucester,,,15
+30-Jun-18,10901,Albury,,,25
+30-Jun-18,10902,Lower Murray,,,5
+30-Jun-18,10903,Upper Murray exc. Albury,9,4,13
+30-Jun-18,11001,Armidale,5,0,5
+30-Jun-18,11002,Inverell - Tenterfield,,,16
+30-Jun-18,11003,Moree - Narrabri,,,15
+30-Jun-18,11004,Tamworth - Gunnedah,24,4,28
+30-Jun-18,11101,Lake Macquarie - East,41,5,46
+30-Jun-18,11102,Lake Macquarie - West,27,7,34
+30-Jun-18,11103,Newcastle,45,4,49
+30-Jun-18,11201,Richmond Valley - Coastal,18,6,24
+30-Jun-18,11202,Richmond Valley - Hinterland,,,27
+30-Jun-18,11203,Tweed Valley,25,6,31
+30-Jun-18,11301,Griffith - Murrumbidgee (West),10,0,10
+30-Jun-18,11302,Tumut - Tumbarumba,,,5
+30-Jun-18,11303,Wagga Wagga,31,7,38
+30-Jun-18,11401,Shoalhaven,38,6,44
+30-Jun-18,11402,Southern Highlands,13,6,19
+30-Jun-18,11501,Baulkham Hills,,,20
+30-Jun-18,11502,Dural - Wisemans Ferry,,,5
+30-Jun-18,11503,Hawkesbury,,,12
+30-Jun-18,11504,Rouse Hill - McGraths Hill,,,9
+30-Jun-18,11601,Blacktown,36,6,42
+30-Jun-18,11602,Blacktown - North,34,12,46
+30-Jun-18,11603,Mount Druitt,59,6,65
+30-Jun-18,11701,Botany,,,11
+30-Jun-18,11702,Marrickville - Sydenham - Petersham,,,11
+30-Jun-18,11703,Sydney Inner City,35,10,45
+30-Jun-18,11801,Eastern Suburbs - North,19,4,23
+30-Jun-18,11802,Eastern Suburbs - South,19,10,29
+30-Jun-18,11901,Bankstown,62,8,70
+30-Jun-18,11902,Canterbury,35,7,42
+30-Jun-18,11903,Hurstville,15,5,20
+30-Jun-18,11904,Kogarah - Rockdale,48,5,53
+30-Jun-18,12001,Canada Bay,16,5,21
+30-Jun-18,12002,Leichhardt,10,3,13
+30-Jun-18,12003,Strathfield - Burwood - Ashfield,,,26
+30-Jun-18,12101,Chatswood - Lane Cove,16,4,20
+30-Jun-18,12102,Hornsby,,,12
+30-Jun-18,12103,Ku-ring-gai,9,3,12
+30-Jun-18,12104,North Sydney - Mosman,,,20
+30-Jun-18,12201,Manly,,,6
+30-Jun-18,12202,Pittwater,10,4,14
+30-Jun-18,12203,Warringah,20,7,27
+30-Jun-18,12301,Camden,28,9,37
+30-Jun-18,12302,Campbelltown (NSW),68,3,71
+30-Jun-18,12303,Wollondilly,6,0,6
+30-Jun-18,12401,Blue Mountains,14,5,19
+30-Jun-18,12402,Blue Mountains - South,0,0,0
+30-Jun-18,12403,Penrith,70,8,78
+30-Jun-18,12404,Richmond - Windsor,,,16
+30-Jun-18,12405,St Marys,31,4,35
+30-Jun-18,12501,Auburn,20,3,23
+30-Jun-18,12502,Carlingford,12,5,17
+30-Jun-18,12503,Merrylands - Guildford,48,7,55
+30-Jun-18,12504,Parramatta,30,6,36
+30-Jun-18,12601,Pennant Hills - Epping,4,0,4
+30-Jun-18,12602,Ryde - Hunters Hill,21,5,26
+30-Jun-18,12701,Bringelly - Green Valley,40,14,54
+30-Jun-18,12702,Fairfield,52,10,62
+30-Jun-18,12703,Liverpool,44,3,47
+30-Jun-18,12801,Cronulla - Miranda - Caringbah,23,5,28
+30-Jun-18,12802,Sutherland - Menai - Heathcote,16,4,20
+30-Jun-18,Unknown,Other (not in ASGS),0,0,0
+30-Sep-18,1,New South Wales,1838,336,2174
+30-Sep-18,1GSYD,Greater Sydney,1169,202,1371
+30-Sep-18,1RNSW,Rest of NSW,669,134,803
+30-Sep-18,10102,Queanbeyan,,,19
+30-Sep-18,10103,Snowy Mountains,4,0,4
+30-Sep-18,10104,South Coast,8,6,14
+30-Sep-18,10105,Goulburn - Mulwaree,,,8
+30-Sep-18,10106,Young - Yass,9,0,9
+30-Sep-18,10201,Gosford,44,12,56
+30-Sep-18,10202,Wyong,57,9,66
+30-Sep-18,10301,Bathurst,16,3,19
+30-Sep-18,10302,Lachlan Valley,,,19
+30-Sep-18,10303,Lithgow - Mudgee,15,4,19
+30-Sep-18,10304,Orange,,,19
+30-Sep-18,10401,Clarence Valley,,,20
+30-Sep-18,10402,Coffs Harbour,12,3,15
+30-Sep-18,10501,Bourke - Cobar - Coonamble,,,9
+30-Sep-18,10502,Broken Hill and Far West,9,0,9
+30-Sep-18,10503,Dubbo,,,17
+30-Sep-18,10601,Lower Hunter,18,7,25
+30-Sep-18,10602,Maitland,22,8,30
+30-Sep-18,10603,Port Stephens,19,5,24
+30-Sep-18,10604,Upper Hunter,,,9
+30-Sep-18,10701,Dapto - Port Kembla,12,0,12
+30-Sep-18,10702,Illawarra Catchment Reserve,0,0,0
+30-Sep-18,10703,Kiama - Shellharbour,18,6,24
+30-Sep-18,10704,Wollongong,30,3,33
+30-Sep-18,10801,Great Lakes,,,
+30-Sep-18,10802,Kempsey - Nambucca,12,3,15
+30-Sep-18,10803,Lord Howe Island,0,0,0
+30-Sep-18,10804,Port Macquarie,18,4,22
+30-Sep-18,10805,Taree - Gloucester,26,3,29
+30-Sep-18,10901,Albury,20,3,23
+30-Sep-18,10902,Lower Murray,,,
+30-Sep-18,10903,Upper Murray exc. Albury,11,0,11
+30-Sep-18,11001,Armidale,,,8
+30-Sep-18,11002,Inverell - Tenterfield,5,3,8
+30-Sep-18,11003,Moree - Narrabri,7,0,7
+30-Sep-18,11004,Tamworth - Gunnedah,30,4,34
+30-Sep-18,11101,Lake Macquarie - East,31,8,39
+30-Sep-18,11102,Lake Macquarie - West,,,26
+30-Sep-18,11103,Newcastle,46,12,58
+30-Sep-18,11201,Richmond Valley - Coastal,12,7,19
+30-Sep-18,11202,Richmond Valley - Hinterland,17,3,20
+30-Sep-18,11203,Tweed Valley,26,11,37
+30-Sep-18,11301,Griffith - Murrumbidgee (West),,,11
+30-Sep-18,11302,Tumut - Tumbarumba,,,3
+30-Sep-18,11303,Wagga Wagga,,,34
+30-Sep-18,11401,Shoalhaven,,,20
+30-Sep-18,11402,Southern Highlands,11,5,16
+30-Sep-18,11501,Baulkham Hills,20,6,26
+30-Sep-18,11502,Dural - Wisemans Ferry,9,0,9
+30-Sep-18,11503,Hawkesbury,,,5
+30-Sep-18,11504,Rouse Hill - McGraths Hill,6,3,9
+30-Sep-18,11601,Blacktown,52,6,58
+30-Sep-18,11602,Blacktown - North,30,6,36
+30-Sep-18,11603,Mount Druitt,59,6,65
+30-Sep-18,11701,Botany,10,4,14
+30-Sep-18,11702,Marrickville - Sydenham - Petersham,,,10
+30-Sep-18,11703,Sydney Inner City,34,11,45
+30-Sep-18,11801,Eastern Suburbs - North,16,10,26
+30-Sep-18,11802,Eastern Suburbs - South,23,7,30
+30-Sep-18,11901,Bankstown,49,12,61
+30-Sep-18,11902,Canterbury,31,11,42
+30-Sep-18,11903,Hurstville,26,3,29
+30-Sep-18,11904,Kogarah - Rockdale,37,5,42
+30-Sep-18,12001,Canada Bay,,,17
+30-Sep-18,12002,Leichhardt,,,10
+30-Sep-18,12003,Strathfield - Burwood - Ashfield,22,4,26
+30-Sep-18,12101,Chatswood - Lane Cove,,,18
+30-Sep-18,12102,Hornsby,9,3,12
+30-Sep-18,12103,Ku-ring-gai,,,14
+30-Sep-18,12104,North Sydney - Mosman,20,7,27
+30-Sep-18,12201,Manly,,,10
+30-Sep-18,12202,Pittwater,5,0,5
+30-Sep-18,12203,Warringah,27,4,31
+30-Sep-18,12301,Camden,31,6,37
+30-Sep-18,12302,Campbelltown (NSW),67,4,71
+30-Sep-18,12303,Wollondilly,11,0,11
+30-Sep-18,12401,Blue Mountains,,,11
+30-Sep-18,12402,Blue Mountains - South,0,0,0
+30-Sep-18,12403,Penrith,45,3,48
+30-Sep-18,12404,Richmond - Windsor,,,19
+30-Sep-18,12405,St Marys,33,0,33
+30-Sep-18,12501,Auburn,,,19
+30-Sep-18,12502,Carlingford,13,7,20
+30-Sep-18,12503,Merrylands - Guildford,49,3,52
+30-Sep-18,12504,Parramatta,28,6,34
+30-Sep-18,12601,Pennant Hills - Epping,9,0,9
+30-Sep-18,12602,Ryde - Hunters Hill,14,8,22
+30-Sep-18,12701,Bringelly - Green Valley,40,6,46
+30-Sep-18,12702,Fairfield,,,53
+30-Sep-18,12703,Liverpool,41,6,47
+30-Sep-18,12801,Cronulla - Miranda - Caringbah,,,25
+30-Sep-18,12802,Sutherland - Menai - Heathcote,,,15
+30-Sep-18,Unknown,Other (not in ASGS),0,0,0
+31-Dec-18,1,New South Wales,1701,300,2001
+31-Dec-18,1GSYD,Greater Sydney,1056,182,1238
+31-Dec-18,1RNSW,Rest of NSW,645,118,763
+31-Dec-18,10102,Queanbeyan,,,14
+31-Dec-18,10103,Snowy Mountains,,,
+31-Dec-18,10104,South Coast,15,5,20
+31-Dec-18,10105,Goulburn - Mulwaree,,,14
+31-Dec-18,10106,Young - Yass,8,4,12
+31-Dec-18,10201,Gosford,35,8,43
+31-Dec-18,10202,Wyong,60,10,70
+31-Dec-18,10301,Bathurst,10,3,13
+31-Dec-18,10302,Lachlan Valley,5,3,8
+31-Dec-18,10303,Lithgow - Mudgee,16,4,20
+31-Dec-18,10304,Orange,17,4,21
+31-Dec-18,10401,Clarence Valley,,,13
+31-Dec-18,10402,Coffs Harbour,,,14
+31-Dec-18,10501,Bourke - Cobar - Coonamble,,0,
+31-Dec-18,10502,Broken Hill and Far West,9,3,12
+31-Dec-18,10503,Dubbo,19,3,22
+31-Dec-18,10601,Lower Hunter,21,7,28
+31-Dec-18,10602,Maitland,,,27
+31-Dec-18,10603,Port Stephens,14,5,19
+31-Dec-18,10604,Upper Hunter,,,10
+31-Dec-18,10701,Dapto - Port Kembla,24,3,27
+31-Dec-18,10702,Illawarra Catchment Reserve,0,0,0
+31-Dec-18,10703,Kiama - Shellharbour,,,32
+31-Dec-18,10704,Wollongong,20,3,23
+31-Dec-18,10801,Great Lakes,8,0,8
+31-Dec-18,10802,Kempsey - Nambucca,,,11
+31-Dec-18,10803,Lord Howe Island,0,0,0
+31-Dec-18,10804,Port Macquarie,17,6,23
+31-Dec-18,10805,Taree - Gloucester,9,3,12
+31-Dec-18,10901,Albury,18,3,21
+31-Dec-18,10902,Lower Murray,,,6
+31-Dec-18,10903,Upper Murray exc. Albury,,,14
+31-Dec-18,11001,Armidale,,,9
+31-Dec-18,11002,Inverell - Tenterfield,,,7
+31-Dec-18,11003,Moree - Narrabri,,,7
+31-Dec-18,11004,Tamworth - Gunnedah,31,4,35
+31-Dec-18,11101,Lake Macquarie - East,28,6,34
+31-Dec-18,11102,Lake Macquarie - West,14,4,18
+31-Dec-18,11103,Newcastle,45,5,50
+31-Dec-18,11201,Richmond Valley - Coastal,17,0,17
+31-Dec-18,11202,Richmond Valley - Hinterland,,,11
+31-Dec-18,11203,Tweed Valley,28,3,31
+31-Dec-18,11301,Griffith - Murrumbidgee (West),,,14
+31-Dec-18,11302,Tumut - Tumbarumba,,,7
+31-Dec-18,11303,Wagga Wagga,33,4,37
+31-Dec-18,11401,Shoalhaven,18,4,22
+31-Dec-18,11402,Southern Highlands,10,4,14
+31-Dec-18,11501,Baulkham Hills,12,9,21
+31-Dec-18,11502,Dural - Wisemans Ferry,,,
+31-Dec-18,11503,Hawkesbury,,,
+31-Dec-18,11504,Rouse Hill - McGraths Hill,,,8
+31-Dec-18,11601,Blacktown,42,7,49
+31-Dec-18,11602,Blacktown - North,,,30
+31-Dec-18,11603,Mount Druitt,,,46
+31-Dec-18,11701,Botany,,,15
+31-Dec-18,11702,Marrickville - Sydenham - Petersham,,,12
+31-Dec-18,11703,Sydney Inner City,47,6,53
+31-Dec-18,11801,Eastern Suburbs - North,,,19
+31-Dec-18,11802,Eastern Suburbs - South,14,8,22
+31-Dec-18,11901,Bankstown,37,7,44
+31-Dec-18,11902,Canterbury,26,9,35
+31-Dec-18,11903,Hurstville,24,4,28
+31-Dec-18,11904,Kogarah - Rockdale,32,7,39
+31-Dec-18,12001,Canada Bay,17,3,20
+31-Dec-18,12002,Leichhardt,,,9
+31-Dec-18,12003,Strathfield - Burwood - Ashfield,18,4,22
+31-Dec-18,12101,Chatswood - Lane Cove,,,12
+31-Dec-18,12102,Hornsby,,,14
+31-Dec-18,12103,Ku-ring-gai,,,8
+31-Dec-18,12104,North Sydney - Mosman,16,3,19
+31-Dec-18,12201,Manly,4,0,4
+31-Dec-18,12202,Pittwater,8,0,8
+31-Dec-18,12203,Warringah,30,3,33
+31-Dec-18,12301,Camden,,,16
+31-Dec-18,12302,Campbelltown (NSW),70,8,78
+31-Dec-18,12303,Wollondilly,,,9
+31-Dec-18,12401,Blue Mountains,,,5
+31-Dec-18,12402,Blue Mountains - South,0,0,0
+31-Dec-18,12403,Penrith,55,8,63
+31-Dec-18,12404,Richmond - Windsor,,,17
+31-Dec-18,12405,St Marys,28,5,33
+31-Dec-18,12501,Auburn,17,5,22
+31-Dec-18,12502,Carlingford,,,24
+31-Dec-18,12503,Merrylands - Guildford,44,6,50
+31-Dec-18,12504,Parramatta,20,7,27
+31-Dec-18,12601,Pennant Hills - Epping,,0,
+31-Dec-18,12602,Ryde - Hunters Hill,15,3,18
+31-Dec-18,12701,Bringelly - Green Valley,53,6,59
+31-Dec-18,12702,Fairfield,49,8,57
+31-Dec-18,12703,Liverpool,28,5,33
+31-Dec-18,12801,Cronulla - Miranda - Caringbah,13,4,17
+31-Dec-18,12802,Sutherland - Menai - Heathcote,17,5,22
+31-Dec-18,Unknown,Other (not in ASGS),0,0,0
+31-Mar-19,1,New South Wales,1532,278,1810
+31-Mar-19,1GSYD,Greater Sydney,912,170,1082
+31-Mar-19,1RNSW,Rest of NSW,620,108,728
+31-Mar-19,10102,Queanbeyan,19,3,22
+31-Mar-19,10103,Snowy Mountains,,,3
+31-Mar-19,10104,South Coast,5,4,9
+31-Mar-19,10105,Goulburn - Mulwaree,,,23
+31-Mar-19,10106,Young - Yass,,,12
+31-Mar-19,10201,Gosford,27,4,31
+31-Mar-19,10202,Wyong,50,10,60
+31-Mar-19,10301,Bathurst,,,8
+31-Mar-19,10302,Lachlan Valley,,,10
+31-Mar-19,10303,Lithgow - Mudgee,,,13
+31-Mar-19,10304,Orange,,,17
+31-Mar-19,10401,Clarence Valley,,,9
+31-Mar-19,10402,Coffs Harbour,,,26
+31-Mar-19,10501,Bourke - Cobar - Coonamble,,,6
+31-Mar-19,10502,Broken Hill and Far West,9,3,12
+31-Mar-19,10503,Dubbo,17,4,21
+31-Mar-19,10601,Lower Hunter,,,19
+31-Mar-19,10602,Maitland,,,29
+31-Mar-19,10603,Port Stephens,,,21
+31-Mar-19,10604,Upper Hunter,,,10
+31-Mar-19,10701,Dapto - Port Kembla,,,15
+31-Mar-19,10702,Illawarra Catchment Reserve,0,0,0
+31-Mar-19,10703,Kiama - Shellharbour,13,6,19
+31-Mar-19,10704,Wollongong,,,21
+31-Mar-19,10801,Great Lakes,,,14
+31-Mar-19,10802,Kempsey - Nambucca,,,9
+31-Mar-19,10803,Lord Howe Island,0,0,0
+31-Mar-19,10804,Port Macquarie,19,5,24
+31-Mar-19,10805,Taree - Gloucester,13,3,16
+31-Mar-19,10901,Albury,23,3,26
+31-Mar-19,10902,Lower Murray,,,3
+31-Mar-19,10903,Upper Murray exc. Albury,6,0,6
+31-Mar-19,11001,Armidale,,,6
+31-Mar-19,11002,Inverell - Tenterfield,11,0,11
+31-Mar-19,11003,Moree - Narrabri,,,4
+31-Mar-19,11004,Tamworth - Gunnedah,,,27
+31-Mar-19,11101,Lake Macquarie - East,23,4,27
+31-Mar-19,11102,Lake Macquarie - West,19,3,22
+31-Mar-19,11103,Newcastle,39,7,46
+31-Mar-19,11201,Richmond Valley - Coastal,12,5,17
+31-Mar-19,11202,Richmond Valley - Hinterland,11,4,15
+31-Mar-19,11203,Tweed Valley,31,6,37
+31-Mar-19,11301,Griffith - Murrumbidgee (West),27,0,27
+31-Mar-19,11302,Tumut - Tumbarumba,4,0,4
+31-Mar-19,11303,Wagga Wagga,23,8,31
+31-Mar-19,11401,Shoalhaven,17,7,24
+31-Mar-19,11402,Southern Highlands,,,7
+31-Mar-19,11501,Baulkham Hills,12,6,18
+31-Mar-19,11502,Dural - Wisemans Ferry,,,5
+31-Mar-19,11503,Hawkesbury,,,3
+31-Mar-19,11504,Rouse Hill - McGraths Hill,,,5
+31-Mar-19,11601,Blacktown,39,3,42
+31-Mar-19,11602,Blacktown - North,26,5,31
+31-Mar-19,11603,Mount Druitt,39,4,43
+31-Mar-19,11701,Botany,,,11
+31-Mar-19,11702,Marrickville - Sydenham - Petersham,9,0,9
+31-Mar-19,11703,Sydney Inner City,32,5,37
+31-Mar-19,11801,Eastern Suburbs - North,16,6,22
+31-Mar-19,11802,Eastern Suburbs - South,24,6,30
+31-Mar-19,11901,Bankstown,35,4,39
+31-Mar-19,11902,Canterbury,17,9,26
+31-Mar-19,11903,Hurstville,25,8,33
+31-Mar-19,11904,Kogarah - Rockdale,39,9,48
+31-Mar-19,12001,Canada Bay,16,4,20
+31-Mar-19,12002,Leichhardt,,,10
+31-Mar-19,12003,Strathfield - Burwood - Ashfield,24,4,28
+31-Mar-19,12101,Chatswood - Lane Cove,,,8
+31-Mar-19,12102,Hornsby,8,4,12
+31-Mar-19,12103,Ku-ring-gai,,,10
+31-Mar-19,12104,North Sydney - Mosman,12,4,16
+31-Mar-19,12201,Manly,4,0,4
+31-Mar-19,12202,Pittwater,7,0,7
+31-Mar-19,12203,Warringah,15,9,24
+31-Mar-19,12301,Camden,13,0,13
+31-Mar-19,12302,Campbelltown (NSW),51,5,56
+31-Mar-19,12303,Wollondilly,,,12
+31-Mar-19,12401,Blue Mountains,13,0,13
+31-Mar-19,12402,Blue Mountains - South,0,0,0
+31-Mar-19,12403,Penrith,49,4,53
+31-Mar-19,12404,Richmond - Windsor,9,3,12
+31-Mar-19,12405,St Marys,33,3,36
+31-Mar-19,12501,Auburn,,,22
+31-Mar-19,12502,Carlingford,,,9
+31-Mar-19,12503,Merrylands - Guildford,30,5,35
+31-Mar-19,12504,Parramatta,23,3,26
+31-Mar-19,12601,Pennant Hills - Epping,,,9
+31-Mar-19,12602,Ryde - Hunters Hill,,,18
+31-Mar-19,12701,Bringelly - Green Valley,31,5,36
+31-Mar-19,12702,Fairfield,32,8,40
+31-Mar-19,12703,Liverpool,28,4,32
+31-Mar-19,12801,Cronulla - Miranda - Caringbah,10,4,14
+31-Mar-19,12802,Sutherland - Menai - Heathcote,,,14
+31-Mar-19,Unknown,Other (not in ASGS),0,0,0
+30-Jun-19,1,New South Wales,1633,304,1937
+30-Jun-19,1GSYD,Greater Sydney,998,172,1170
+30-Jun-19,1RNSW,Rest of NSW,635,132,767
+30-Jun-19,10102,Queanbeyan,,,11
+30-Jun-19,10103,Snowy Mountains,,,4
+30-Jun-19,10104,South Coast,16,6,22
+30-Jun-19,10105,Goulburn - Mulwaree,,,11
+30-Jun-19,10106,Young - Yass,,,7
+30-Jun-19,10201,Gosford,39,11,50
+30-Jun-19,10202,Wyong,59,6,65
+30-Jun-19,10301,Bathurst,,,15
+30-Jun-19,10302,Lachlan Valley,10,3,13
+30-Jun-19,10303,Lithgow - Mudgee,,,10
+30-Jun-19,10304,Orange,,,21
+30-Jun-19,10401,Clarence Valley,,,14
+30-Jun-19,10402,Coffs Harbour,18,6,24
+30-Jun-19,10501,Bourke - Cobar - Coonamble,6,0,6
+30-Jun-19,10502,Broken Hill and Far West,,,7
+30-Jun-19,10503,Dubbo,16,3,19
+30-Jun-19,10601,Lower Hunter,36,6,42
+30-Jun-19,10602,Maitland,25,3,28
+30-Jun-19,10603,Port Stephens,15,3,18
+30-Jun-19,10604,Upper Hunter,,,11
+30-Jun-19,10701,Dapto - Port Kembla,20,3,23
+30-Jun-19,10702,Illawarra Catchment Reserve,0,0,0
+30-Jun-19,10703,Kiama - Shellharbour,,,23
+30-Jun-19,10704,Wollongong,36,4,40
+30-Jun-19,10801,Great Lakes,,,10
+30-Jun-19,10802,Kempsey - Nambucca,7,4,11
+30-Jun-19,10803,Lord Howe Island,0,0,0
+30-Jun-19,10804,Port Macquarie,21,7,28
+30-Jun-19,10805,Taree - Gloucester,11,7,18
+30-Jun-19,10901,Albury,14,6,20
+30-Jun-19,10902,Lower Murray,,,3
+30-Jun-19,10903,Upper Murray exc. Albury,,,13
+30-Jun-19,11001,Armidale,,,6
+30-Jun-19,11002,Inverell - Tenterfield,,,14
+30-Jun-19,11003,Moree - Narrabri,6,0,6
+30-Jun-19,11004,Tamworth - Gunnedah,36,3,39
+30-Jun-19,11101,Lake Macquarie - East,28,7,35
+30-Jun-19,11102,Lake Macquarie - West,17,5,22
+30-Jun-19,11103,Newcastle,32,4,36
+30-Jun-19,11201,Richmond Valley - Coastal,9,4,13
+30-Jun-19,11202,Richmond Valley - Hinterland,6,4,10
+30-Jun-19,11203,Tweed Valley,23,7,30
+30-Jun-19,11301,Griffith - Murrumbidgee (West),14,4,18
+30-Jun-19,11302,Tumut - Tumbarumba,5,0,5
+30-Jun-19,11303,Wagga Wagga,,,22
+30-Jun-19,11401,Shoalhaven,21,3,24
+30-Jun-19,11402,Southern Highlands,10,5,15
+30-Jun-19,11501,Baulkham Hills,13,3,16
+30-Jun-19,11502,Dural - Wisemans Ferry,,,5
+30-Jun-19,11503,Hawkesbury,,0,
+30-Jun-19,11504,Rouse Hill - McGraths Hill,5,0,5
+30-Jun-19,11601,Blacktown,43,7,50
+30-Jun-19,11602,Blacktown - North,34,4,38
+30-Jun-19,11603,Mount Druitt,54,4,58
+30-Jun-19,11701,Botany,16,3,19
+30-Jun-19,11702,Marrickville - Sydenham - Petersham,5,4,9
+30-Jun-19,11703,Sydney Inner City,32,15,47
+30-Jun-19,11801,Eastern Suburbs - North,16,3,19
+30-Jun-19,11802,Eastern Suburbs - South,19,4,23
+30-Jun-19,11901,Bankstown,46,6,52
+30-Jun-19,11902,Canterbury,17,4,21
+30-Jun-19,11903,Hurstville,18,5,23
+30-Jun-19,11904,Kogarah - Rockdale,28,7,35
+30-Jun-19,12001,Canada Bay,8,5,13
+30-Jun-19,12002,Leichhardt,,,7
+30-Jun-19,12003,Strathfield - Burwood - Ashfield,25,3,28
+30-Jun-19,12101,Chatswood - Lane Cove,12,3,15
+30-Jun-19,12102,Hornsby,,,11
+30-Jun-19,12103,Ku-ring-gai,4,5,9
+30-Jun-19,12104,North Sydney - Mosman,,,7
+30-Jun-19,12201,Manly,,,3
+30-Jun-19,12202,Pittwater,,,7
+30-Jun-19,12203,Warringah,17,5,22
+30-Jun-19,12301,Camden,,,24
+30-Jun-19,12302,Campbelltown (NSW),77,7,84
+30-Jun-19,12303,Wollondilly,,,8
+30-Jun-19,12401,Blue Mountains,,,5
+30-Jun-19,12402,Blue Mountains - South,0,0,0
+30-Jun-19,12403,Penrith,,,69
+30-Jun-19,12404,Richmond - Windsor,,,13
+30-Jun-19,12405,St Marys,21,3,24
+30-Jun-19,12501,Auburn,,,17
+30-Jun-19,12502,Carlingford,7,0,7
+30-Jun-19,12503,Merrylands - Guildford,25,5,30
+30-Jun-19,12504,Parramatta,40,4,44
+30-Jun-19,12601,Pennant Hills - Epping,,0,
+30-Jun-19,12602,Ryde - Hunters Hill,,,13
+30-Jun-19,12701,Bringelly - Green Valley,38,7,45
+30-Jun-19,12702,Fairfield,40,7,47
+30-Jun-19,12703,Liverpool,38,5,43
+30-Jun-19,12801,Cronulla - Miranda - Caringbah,19,4,23
+30-Jun-19,12802,Sutherland - Menai - Heathcote,,,14
+30-Jun-19,Unknown,Other (not in ASGS),0,0,0
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
