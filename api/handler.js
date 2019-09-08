@@ -20,13 +20,18 @@ const byArea =   [{
   }
 }]
 
-module.exports.hello = async (event, context) => {
+module.exports.jobs = async (event, context) => {
 
-  const inputs = {
-    areas: ['NSW'],
-    eduLevel: 'Highschool' ,
-    // path: 
-  }
+  console.log("event", event)
+
+  // const inputs = {
+  //   areas: ['NSW'],
+  // }
+  const body = JSON.parse(event.body)
+
+  const inputs = body;
+
+  console.log("inputs", inputs)
 
   let jobs = []
 
@@ -54,9 +59,6 @@ module.exports.hello = async (event, context) => {
       input: event,
     }),
   };
-
-  // Use this code if you don't use the http event with the LAMBDA-PROXY integration
-  // return { message: 'Go Serverless v1.0! Your function executed successfully!', event };
 };
 
 function filterByArea(inputs, dataset) {
