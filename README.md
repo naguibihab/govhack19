@@ -49,4 +49,4 @@ In the Design folder you will find all of our design assets including Customer I
 In the Datasets folder you will find the datasets that we have used in this project for both the API and the Conecpt
 
 # Video
-In the Video folder you will find the video submitted by the team
+In the Video folder you will find a link to the video submitted by the team
