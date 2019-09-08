@@ -35,7 +35,7 @@ module.exports.hello = async (event, context) => {
   console.log('jobs after filter 1', jobs)
 
   console.log('2 ADD PROSPECTS')
-  jobs = addProspects(jobs)
+  jobs = await addProspects(jobs)
   console.log('jobs after filter 2', jobs)
 
   // return {
@@ -62,16 +62,24 @@ function filterByArea(inputs, dataset) {
   return found;
 }
 
+
+
+// INCOMPLETE
 async function addProspects(jobs) {
   const api = 'https://data.gov.au/data/api/3/action/datastore_search?resource_id=bfa7ef04-e9f2-46ff-a959-84f005dfd17b&q='
-  let found = [];
+
   jobs.forEach(async (job, index) => {
     await request(api+job.Title, (error, resp, body) => {
-      console.log('error: ', error);
-      console.log('body', body);
-      jobs[index].
+      // console.log('error: ', error);
+      if(body.result){
+        console.log('body',body, body.result.help)
+      }
+      // jobs[index].prospects = body.result.records
+      console.log('jobs',jobs)
     })
   })
+
+  return Promise.resolve(jobs);
 }
 
 // request('http://www.google.com', function (error, response, body) {
