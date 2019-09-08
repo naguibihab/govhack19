@@ -31,7 +31,7 @@ module.exports.jobs = async (event, context) => {
 
   const inputs = body;
 
-  console.log("inputs", inputs)
+  console.log("inputs", inputs) 
 
   let jobs = []
 
@@ -51,31 +51,38 @@ module.exports.jobs = async (event, context) => {
   jobs = getTraining(jobs)
   console.log('jobs after filter 4', jobs)
 
+  let message = jobs;
+
+  if(jobs.length == 0) {
+    message = "Looks like we couldn't find any jobs that matches your search, make sure to add in areas in the body of the request"
+  }
 
   return {
     statusCode: 200,
     body: JSON.stringify({
-      message: jobs,
-      input: event,
+      message: message
     }),
   };
 };
 
 function filterByArea(inputs, dataset) {
   let found = [];
-  inputs.areas.forEach((toFind) => {
-    dataset.forEach((element) => {
-      if(toFind == element.State) {
-        found.push(element);
-      }
+  if(inputs && inputs.areas)
+  {
+    inputs.areas.forEach((toFind) => {
+      dataset.forEach((element) => {
+        if(toFind == element.State) {
+          found.push(element);
+        }
+      })
     })
-  })
+  }
   return found;
 }
 
 function getTraining(jobs) {
   const api = 'https://training.gov.au/Search/Training?SearchTitleOrCode={JOB}&IncludeSupersededData=true&IncludeSupersededData=false&IncludeDeletedData=true&IncludeDeletedData=false&TypeAllTrainingComponents=true&TypeAllTrainingComponents=false&TypeTrainingPackages=true&TypeTrainingPackages=false&TypeQualifications=true&TypeQualifications=false&TypeAccreditedCourses=true&TypeAccreditedCourses=false&TypeModule=true&TypeModule=false&TypeUnitsOfCompetency=true&TypeUnitsOfCompetency=false&TypeSkillSets=true&TypeSkillSets=false&nrtSearchSubmit=Search&AdvancedSearch=False&JavaScriptEnabled=true&educationLevel=-99&TaxonomyOccupation=&TaxonomyIndustrySector=&recognisedby=-99'
-
+  
   jobs.forEach(async (job, i) => {
     job.training = api.replace('{JOB}', job.Title);
     jobs[i] = job
