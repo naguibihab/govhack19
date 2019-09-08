@@ -38,15 +38,22 @@ module.exports.hello = async (event, context) => {
   jobs = await addProspects(jobs)
   console.log('jobs after filter 2', jobs)
 
-  // await getSkills(jobs)
+  console.log('3 ADD SKILLS')
+  jobs = getSkills(jobs)
+  console.log('jobs after filter 3', jobs)
 
-  // return {
-  //   statusCode: 200,
-  //   body: JSON.stringify({
-  //     message: 'Go Serverless v1.0! Your function executed successfully!',
-  //     input: event,
-  //   }),
-  // };
+  console.log('4 ADD TRAINING')
+  jobs = getTraining(jobs)
+  console.log('jobs after filter 4', jobs)
+
+
+  return {
+    statusCode: 200,
+    body: JSON.stringify({
+      message: jobs,
+      input: event,
+    }),
+  };
 
   // Use this code if you don't use the http event with the LAMBDA-PROXY integration
   // return { message: 'Go Serverless v1.0! Your function executed successfully!', event };
@@ -64,41 +71,64 @@ function filterByArea(inputs, dataset) {
   return found;
 }
 
-async function getSkillsLinnks(jobs) {
+function getTraining(jobs) {
+  const api = 'https://training.gov.au/Search/Training?SearchTitleOrCode={JOB}&IncludeSupersededData=true&IncludeSupersededData=false&IncludeDeletedData=true&IncludeDeletedData=false&TypeAllTrainingComponents=true&TypeAllTrainingComponents=false&TypeTrainingPackages=true&TypeTrainingPackages=false&TypeQualifications=true&TypeQualifications=false&TypeAccreditedCourses=true&TypeAccreditedCourses=false&TypeModule=true&TypeModule=false&TypeUnitsOfCompetency=true&TypeUnitsOfCompetency=false&TypeSkillSets=true&TypeSkillSets=false&nrtSearchSubmit=Search&AdvancedSearch=False&JavaScriptEnabled=true&educationLevel=-99&TaxonomyOccupation=&TaxonomyIndustrySector=&recognisedby=-99'
+
+  jobs.forEach(async (job, i) => {
+    job.training = api.replace('{JOB}', job.Title);
+    jobs[i] = job
+  });
+
+  return jobs
+}
+
+function getSkills(jobs) {
   const api = 'https://www.myskills.gov.au/courses/search/?keywords={JOB}&locationID=0&Distance=25&rtoCode=&campusId=0'
 
-  // jobs.forEach(async (job, i) => {
-  //   job.
-  // });
+  jobs.forEach(async (job, i) => {
+    job.skill = api.replace('{JOB}', job.Title);
+    jobs[i] = job
+  });
 
-  // Resolve promises
-  await Promise.all(promises)
-  console.log("REACH");
+  return jobs
 }
 
 
 async function addProspects(jobs) {
-  const api = 'https://data.gov.au/data/api/3/action/datastore_search?resource_id=bfa7ef04-e9f2-46ff-a959-84f005dfd17b&q='
+  return new Promise(async (resolve,reject) => {
+    const api = 'https://data.gov.au/data/api/3/action/datastore_search?resource_id=bfa7ef04-e9f2-46ff-a959-84f005dfd17b&q='
 
-  let promises = [];
-
-  jobs.forEach((job, i) => {
-    promises.push(
-      request(api+job.Title, (e, r, b) => {
-        const bjson = JSON.parse(b);
-        if(bjson.result){
-          jobs[i].prospects = bjson.result.records
-        }
-      })
-    )
+    let promises = [];
+  
+    jobs.forEach((job, i) => {
+      promises.push(
+        new Promise((res, rej) => {
+          request(api+job.Title, (e, r, b) => {
+            // console.log("REACH request")
+            if(e) {
+              console.log('error from api', e)
+            }
+            const bjson = JSON.parse(b);
+            // console.log("REACH request 02", bjson.result)
+            if(bjson.result){
+              // console.log("REACH request 03", bjson.result.records)
+              job.prospects = bjson.result.records
+              jobs[i] = job 
+              // console.log("REACH request 04")
+              resolve(jobs)
+            } else {
+              // console.log('no prospects', bjson)
+              reject()
+            }
+          })
+        })
+      )
+    })
+  
+    // console.log('REACH', jobs)
+  
+    await Promise.all(promises)
+    // console.log("REACH 01")
+    resolve(jobs)
   })
-
-  await Promise.all(promises)
-  return Promise.resolve(jobs)
 }
-
-// request('http://www.google.com', function (error, response, body) {
-//   console.log('error:', error); // Print the error if one occurred
-//   console.log('statusCode:', response && response.statusCode); // Print the response status code if a response was received
-//   console.log('body:', body); // Print the HTML for the Google homepage.
-// });
