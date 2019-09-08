@@ -35,8 +35,10 @@ module.exports.hello = async (event, context) => {
   console.log('jobs after filter 1', jobs)
 
   console.log('2 ADD PROSPECTS')
-  jobs = await addProspects(jobs)
+  // jobs = await addProspects(jobs)
   console.log('jobs after filter 2', jobs)
+
+  await getSkills(jobs)
 
   // return {
   //   statusCode: 200,
@@ -62,6 +64,22 @@ function filterByArea(inputs, dataset) {
   return found;
 }
 
+async function getSkills(jobs) {
+  const api = 'https://www.myskills.gov.au/courses/search/?keywords={JOB}&locationID=0&Distance=25&rtoCode=&campusId=0'
+
+  let promises = [];
+  jobs.forEach(async (job) => {
+    promises.push(new Promise(async (resolve,reject) => {
+      request(api.replace("JOB", job.Title, (e,r,b) => {
+        console.log("body",b)
+      }))
+    }))
+  });
+
+  // Resolve promises
+  await Promise.all(promises)
+  console.log("REACH");
+}
 
 
 // INCOMPLETE
