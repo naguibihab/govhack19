@@ -3,7 +3,7 @@
 // import byArea from './ivi-skill-level.js';
 const request = require('request')
 
-const byArea =   [{
+const byArea = [{
   Level:	3,
   ANZSCO_CODE:	12,
   // Title:	"Farmers and farm managers",
